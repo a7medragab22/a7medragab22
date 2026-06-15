@@ -17,3 +17,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-06-11] Optimize asset loading and memory footprint
 - [2026-06-12] Implement custom theme switching and dark mode
 - [2026-06-12] Refactor Clean Architecture domain layer
+- [2026-06-15] Implement BLoC state management for user feed
