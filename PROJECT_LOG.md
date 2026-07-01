@@ -34,3 +34,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-06-29] Implement BLoC state management for user feed
 - [2026-06-29] Integrate REST API authentication endpoints
 - [2026-06-29] Optimize Hive local database queries and caching
+- [2026-07-01] Add Arabic & English localization strings
