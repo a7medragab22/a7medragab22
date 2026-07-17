@@ -60,3 +60,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-07-16] Implement custom theme switching and dark mode
 - [2026-07-16] Refactor Clean Architecture domain layer
 - [2026-07-16] Implement BLoC state management for user feed
+- [2026-07-17] Integrate REST API authentication endpoints
