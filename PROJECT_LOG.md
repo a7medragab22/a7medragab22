@@ -69,3 +69,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-07-22] Update dependency injection container
 - [2026-07-22] Add shimmer loading effects and UI animations
 - [2026-07-22] Enhance error handling for network timeouts
+- [2026-07-23] Refactor navigation routes with go_router
