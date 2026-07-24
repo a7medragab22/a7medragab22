@@ -72,3 +72,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-07-23] Refactor navigation routes with go_router
 - [2026-07-23] Optimize asset loading and memory footprint
 - [2026-07-23] Implement custom theme switching and dark mode
+- [2026-07-24] Refactor Clean Architecture domain layer
