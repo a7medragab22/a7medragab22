@@ -77,3 +77,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-07-25] Integrate REST API authentication endpoints
 - [2026-07-26] Optimize Hive local database queries and caching
 - [2026-07-27] Add Arabic & English localization strings
+- [2026-07-27] Build responsive UI widgets for tablet and mobile
