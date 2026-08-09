@@ -92,3 +92,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-08-06] Optimize Hive local database queries and caching
 - [2026-08-07] Add Arabic & English localization strings
 - [2026-08-07] Build responsive UI widgets for tablet and mobile
+- [2026-08-09] Fix state synchronization in Cubit controller
