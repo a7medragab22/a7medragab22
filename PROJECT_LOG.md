@@ -94,3 +94,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-08-07] Build responsive UI widgets for tablet and mobile
 - [2026-08-09] Fix state synchronization in Cubit controller
 - [2026-08-11] Improve test coverage for core business logic
+- [2026-08-11] Update dependency injection container
