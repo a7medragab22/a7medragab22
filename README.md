@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380">
+<img src="https://raw.githubusercontent.com/a7medragab22/a7medragab22/main/assets/developer.jpg" width="420" alt="Ahmed Ragab - Developer" />
 
 <h1 style="color:#0284c7;">Ahmed Ragab</h1>
 
