@@ -116,10 +116,15 @@ class AhmedRagab extends Developer {
 
 <div align="center">
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7medragab22&show_icons=true&theme=tokyonight&hide_border=true&title_color=0284c7&icon_color=38bdf8" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medragab22&theme=tokyonight&hide_border=true&ring=0284c7&fire=38bdf8" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7medragab22&theme=tokyonight" width="48%" alt="Ahmed's GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a7medragab22&theme=tokyonight" width="48%" alt="Ahmed's GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a7medragab22&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a7medragab22&theme=tokyonight" width="48%" alt="Top Languages by Repo" />
 
 <br/><br/>
 
