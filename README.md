@@ -1,27 +1,27 @@
 <div align="center">
 
 <a href="https://github.com/a7medragab22">
-  <img src="https://img.shields.io/badge/%F0%9F%A6%8B%20VIEW%20MY%20FULL%20PROFILE%20PAGE%20%F0%9F%A6%8B-ec4899?style=for-the-badge&labelColor=ec4899" />
+  <img src="https://img.shields.io/badge/âš¡%20VIEW%20MY%20GITHUB%20PROFILE%20âš¡-0284c7?style=for-the-badge&labelColor=0369a1" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Flutter%20Developer-ec4899?style=for-the-badge&logoColor=white&labelColor=ec4899&color=f9a8d4" height="60" />
+<img src="https://img.shields.io/badge/Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0175C2" height="50" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380">
 
-<h1 style="color:#ec4899;">Ahmed Ragab</h1>
+<h1 style="color:#0284c7;">Ahmed Ragab</h1>
 
-<i>Flutter Developer · CS Graduate · Mobile App Enthusiast</i>
+<i>ðŸš€ Flutter Developer Â· ðŸŽ“ CS Graduate Â· ðŸ“± Mobile App Enthusiast</i>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📱_MOBILE_DEVELOPER-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍_EGYPT-facc15?style=for-the-badge&color=facc15&labelColor=facc15" />
-<img src="https://img.shields.io/badge/⏳_1%2B_YEAR-ec4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡_CLEAN_ARCHITECTURE-facc15?style=for-the-badge&color=facc15&labelColor=facc15" />
+<img src="https://img.shields.io/badge/ðŸ“±_MOBILE_DEVELOPER-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ðŸ‡ªðŸ‡¬_EGYPT-0284c7?style=for-the-badge&color=0284c7&labelColor=0369a1" />
+<img src="https://img.shields.io/badge/â³_1%2B_YEAR-0369a1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ðŸ›ï¸_CLEAN_ARCHITECTURE-0284c7?style=for-the-badge&color=0284c7" />
 
 </div>
 
@@ -42,7 +42,7 @@ class AhmedRagab extends Developer {
   ];
 
   @override
-  String get motto => 'Building scalable, high-performance mobile apps 🚀';
+  String get motto => 'Building scalable, high-performance mobile apps ðŸš€';
 }
 ```
 
@@ -50,18 +50,18 @@ class AhmedRagab extends Developer {
 
 <div align="center">
 
-### 💼 Experience
+### ðŸ’¼ Experience
 
 </div>
 
-**Flutter Developer — GMTApps** · On-site · 3 Months
+**Flutter Developer â€” GMTApps** Â· On-site Â· 3 Months
 - Developed and maintained Flutter mobile applications
 - Implemented BLoC & Cubit state management
 - Applied Clean Architecture principles in production projects
 - Integrated APIs and local storage with Hive
 - Implemented localization for multilingual apps
 
-**Flutter Developer Intern — NextZone** · Remote · 2 Months
+**Flutter Developer Intern â€” NextZone** Â· Remote Â· 2 Months
 - Developed mobile app features using Flutter and Dart
 - Integrated REST APIs and managed remote data
 - Worked with Firebase Authentication and Firestore
@@ -71,7 +71,7 @@ class AhmedRagab extends Developer {
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### ðŸ› ï¸ Tech Stack
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -86,20 +86,20 @@ class AhmedRagab extends Developer {
 
 <div align="center">
 
-### 📊 GitHub Stats
+### ðŸ“Š GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7medragab22&show_icons=true&theme=radical&hide_border=true&title_color=ec4899&icon_color=facc15" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medragab22&theme=radical&hide_border=true&ring=ec4899&fire=facc15" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=a7medragab22&show_icons=true&theme=tokyonight&hide_border=true&title_color=0284c7&icon_color=38bdf8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medragab22&theme=tokyonight&hide_border=true&ring=0284c7&fire=38bdf8" width="48%" />
 
 <br/><br/>
 
-### 🐍 Contribution Snake
+### ðŸ Contribution Snake
 
 <img src="https://raw.githubusercontent.com/a7medragab22/a7medragab22/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <br/><br/>
 
-### 📫 Connect with me
+### ðŸ“¬ Connect with me
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
