@@ -155,3 +155,4 @@ Tracking Flutter components, architecture improvements, and updates.
 - [2026-09-16] Enhance error handling for network timeouts
 - [2026-09-16] Refactor navigation routes with go_router
 - [2026-09-17] Optimize asset loading and memory footprint
+- [2026-09-17] Implement custom theme switching and dark mode
